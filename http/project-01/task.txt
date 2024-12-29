@@ -1,0 +1,21 @@
+REST API -JSON
+
+1-GET/users - html document render
+2-GET/api/users - list all users -JSON----done
+
+
+
+dynamic path----:id-> variable
+3-GET /api/users/1 - Get the user with id=1----done
+4-GET/api/users/2 - Get the user with id=2--done
+
+
+5-POST /api/users - CReate new users
+
+6-PATCH /api/users/1- Edit the user with id-1
+
+7-DELETE /api/users/1 - Delete the usrr with id-1
+
+
+
+answe-getting dummy data from mokaro

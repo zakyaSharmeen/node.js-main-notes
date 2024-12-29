@@ -1,0 +1,4 @@
+schema-dedine strucure
+schema
+modal
+using modal we do crud operations
